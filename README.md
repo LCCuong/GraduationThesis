@@ -2,7 +2,7 @@
 
 The reposity for a part of our graduation thesis at University of Information Technology (UIT-VNUHCM):
 
-"BLACK-BOX SPARSE ADVERSARIAL ATTACK ON COMPUTER VISION MODELS USING EVOLUTIONARY COMPUTATION."
+<sub>"BLACK-BOX SPARSE ADVERSARIAL ATTACK ON COMPUTER VISION MODELS USING EVOLUTIONARY COMPUTATION."</sup>
 
 ## General Information
 
@@ -24,7 +24,7 @@ The reposity for a part of our graduation thesis at University of Information Te
 
 ## Example
 
-Some successful attack on object detection model (YOLOv8)
+Some successful attacks on object detection model (YOLOv8)
 
 ![alternative text](gif/demo.gif)
 
