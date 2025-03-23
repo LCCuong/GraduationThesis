@@ -2,7 +2,7 @@
 
 The repository for a part of our graduation thesis at University of Information Technology (UIT-VNUHCM):
 
-**"BLACK-BOX SPARSE ADVERSARIAL ATTACK ON COMPUTER VISION MODELS\
+<p align="center"> **"BLACK-BOX SPARSE ADVERSARIAL ATTACK ON COMPUTER VISION MODELS\
 USING EVOLUTIONARY COMPUTATION."**
 
 ## General Information
