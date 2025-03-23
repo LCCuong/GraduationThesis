@@ -1,6 +1,6 @@
 # Graduation Thesis
 
-The reposity for a part of our graduation thesis at University of Information Technology (UIT-VNUHCM):
+The repository for a part of our graduation thesis at University of Information Technology (UIT-VNUHCM):
 
 **"BLACK-BOX SPARSE ADVERSARIAL ATTACK ON COMPUTER VISION MODELS\
 USING EVOLUTIONARY COMPUTATION."**
